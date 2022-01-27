@@ -3,7 +3,6 @@ import { getCategories  } from '../services';
 
 import Link from 'next/link'
 
-
 const Header = () => {
     const [categories, setCategories] = useState([]);
     
