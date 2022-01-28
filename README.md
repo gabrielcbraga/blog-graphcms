@@ -4,6 +4,10 @@
 
 This is a blog created using React.JS and Next.JS, fully customizable, drop and use!
 
+## View
+
+### [Link](https://blog-graphcms-topaz.vercel.app/)
+
 ## Features
 
 - Created for easly use
